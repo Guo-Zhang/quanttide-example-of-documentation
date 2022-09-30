@@ -1,0 +1,9 @@
+# https://jupyterbook.org/en/stable/customize/config.html
+name: quanttide-tutorial-example
+title: 量潮教程示例项目
+author: 量潮科技
+description: 示例量潮教程的格式
+level: introductory
+stage: alpha
+tags:
+  - python
