@@ -3,7 +3,10 @@ name: quanttide-tutorial-example
 title: 量潮教程示例项目
 author: 量潮科技
 description: 示例量潮教程的格式
-level: introductory
-stage: alpha
+category: tutorial
 tags:
   - python
+level: introductory
+stage: alpha
+# Jupyter Book Config
+only_build_toc_files: true
