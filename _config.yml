@@ -1,12 +1,7 @@
 # https://jupyterbook.org/en/stable/customize/config.html
-name: quanttide-tutorial-example
-title: 量潮教程示例项目
+name: quanttide-example-of-documentation
+title: 量潮示例文档项目
 author: 量潮科技
-description: 示例量潮教程的格式
-category: tutorial
-tags:
-  - python
-level: introductory
-stage: alpha
+description: 量潮文档项目实例
 # Jupyter Book Config
 only_build_toc_files: true
